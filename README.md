@@ -2,7 +2,7 @@
 
 Pure JavaScript Bitshares websocket library for node.js and browsers. Can be used to easily connect to and obtain data from the Bitshares blockchain via public apis or local nodes.
 
-Credit for the original implementation goes to [jcalfeee](https://github.com/jcalfee).
+Credit for the original implementation goes to [jcalfee](https://github.com/jcalfee).
 
 [![npm version](https://img.shields.io/npm/v/bitsharesjs-ws.svg?style=flat-square)](https://www.npmjs.com/package/bitsharesjs-ws)
 [![npm downloads](https://img.shields.io/npm/dm/bitsharesjs-ws.svg?style=flat-square)](https://www.npmjs.com/package/bitsharesjs-ws)
